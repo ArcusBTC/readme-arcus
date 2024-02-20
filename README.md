@@ -2,13 +2,15 @@
 
 ## Arcus Technologies 💻
 
-`Bitcoin Libs
+Bitcoin Libs
 
 PBST
 
+Taproot
+
 Ordinals
 
-Isolated Lending Pools
+Lending Pools
 
 Safety Module
 
@@ -20,7 +22,7 @@ Oracles
 
 BRC-20 & TAP Indexers
 
-ZK-Rollups`
+ZK-Rollups
 
 ## Arcus Unofficial Integration Partners 🤝
  
@@ -46,19 +48,19 @@ Xverse
 
 #### Lending 
 1. Connect Wallet
-2. Supply to Pool 
+2. Supply to Pool
 3. Manage Assets
 
 #### Borrowing
 1. Connect Wallet
 2. Deposit BTC or BRC20 collateral
-3. Borrow desired assets (BTC, BRC-20, stablecoins, etc)
+3. Borrow desired assets (BTC, BRC-20, stablecoin, etc)
 4. Pay interest on borrowed amount over time of loan
-5. Repay loan to retrieve your initial BTC or BRC20 collateral
+5. Repay loan anytime to retrieve your initial BTC or BRC-20 collateral
 
 ## Testnet and Links ✨
 
-- ??? (12/20)
+- Arcus tBTC Faucet Pool (2/20)
 - ??? (3/11)
 - Arcus Full Testnet (TBA, Q1)
 - https://arcusbtc.com/ - Website
