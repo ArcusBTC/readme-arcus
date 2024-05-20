@@ -16,21 +16,15 @@ Safety Module
 
 Automated Liquidations
 
-Discreet Log Contracts (DLC)
-
 Oracles
 
 BRC-20 & TAP Indexers
 
-ZK-Rollups
-
 ## Arcus Unofficial Integration Partners 🤝
- 
-Deep Lake Finance
 
 UniSat
 
-Xverse
+TBA
 
 ## ₿itcoin Assets 🟠
 
@@ -47,21 +41,20 @@ Xverse
 ## How Does Arcus Work? 🧐
 
 #### Lending 
-1. Connect Wallet
-2. Supply to Pool
-3. Manage Assets
+1. Deposit BTC or BRC-20 into lending pool
+2. Start earning yield
+3. Withdraw + APY and rewards
 
 #### Borrowing
-1. Connect Wallet
-2. Deposit BTC or BRC20 collateral
-3. Borrow desired assets (BTC, BRC-20, stablecoin, etc)
-4. Pay interest on borrowed amount over time of loan
-5. Repay loan anytime to retrieve your initial BTC or BRC-20 collateral
+
+1. Deposit BRC-20 or other BTC Asset collateral
+3. Borrow desired assets (BTC, stablecoins, etc)
+4. Repay loan with profits to retrieve your initial BTC or BRC20 collateral
 
 ## Testnet and Links ✨
 
 - Arcus tBTC Faucet Pool (2/20)
-- ??? (3/11)
-- Arcus Full Testnet (TBA, Q1)
+- Arcus Bitcoin Testnet (Q2)
+- Arcus Bitcoin Mainnet (Q3)
 - https://arcusbtc.com/ - Website
 - https://twitter.com/arcusbtc - Twitter
