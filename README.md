@@ -12,19 +12,19 @@ Ordinals
 
 Lending Pools
 
-Safety Module
+Safety Module (Reserve)
 
 Automated Liquidations
 
 Oracles
 
-BRC-20 & TAP Indexers
+BRC-20 Indexers
 
 ## Arcus Unofficial Integration Partners 🤝
 
 UniSat
 
-TBA
+DotSwap
 
 ## ₿itcoin Assets 🟠
 
@@ -40,6 +40,8 @@ TBA
 
 ## How Does Arcus Work? 🧐
 
+### Lending Pools on Layer 1 Bitcoin
+
 #### Lending 
 1. Deposit BTC or BRC-20 into lending pool
 2. Start earning yield
@@ -48,13 +50,13 @@ TBA
 #### Borrowing
 
 1. Deposit BRC-20 or other BTC Asset collateral
-3. Borrow desired assets (BTC, stablecoins, etc)
-4. Repay loan with profits to retrieve your initial BTC or BRC20 collateral
+2. Borrow desired assets (BTC, stablecoins, etc)
+3. Repay loan with profits to retrieve your initial BTC or BRC20 collateral
 
 ## Testnet and Links ✨
 
-- Arcus tBTC Faucet Pool (2/20)
-- Arcus Bitcoin Testnet (Q2)
-- Arcus Bitcoin Mainnet (Q3)
+- Arcus Bitcoin Testnet - https://app.arcusbtc.com/
+- Arcus Bitcoin Mainnet (2025)
 - https://arcusbtc.com/ - Website
 - https://twitter.com/arcusbtc - Twitter
+- https://discord.gg/zYj6Am7JgT - Discord
